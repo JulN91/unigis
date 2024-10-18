@@ -1,0 +1,3 @@
+print("This is the first file")
+git config --global user.name "JulN91"
+git config --global user.email "julianniedling@outlook.com"
